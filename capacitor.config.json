@@ -1,0 +1,8 @@
+{
+  "appId": "kr.mulpul.garden",
+  "appName": "물풀 정원",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#c3cfc6"
+  }
+}
